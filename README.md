@@ -1,7 +1,9 @@
-# PClub Secy Recruitment Task
+# PClub Secy Recruitment Task - 4
 ## Aniket Suhas Borkar - 210135
   
 This repository contains the Jupyter notebook containing the code I wrote to implement a neural net with a single hidden layer, from scratch.  
+  
+Colab link - 
 
 The neural net implemented serves the purpose of digit recognition. It has been trained and subsequently tested using the MNIST database of handwritten digits. The major features of the neural net include:  
 - The input of the neural network are the brightness values of the individual pixels of an image, for which the digit is to be recognised. The net accepts 28X28 pixel images as input.
